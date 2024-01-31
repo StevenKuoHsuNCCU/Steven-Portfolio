@@ -55,7 +55,7 @@
 - 擔任組長、負責建構模型、參數調整、預測
 
 ### LineBot 開發
-![LineBot 開發](link-to-image)
+![LineBot 開發](readme_graph/IMG_7208.PNG)
 
 - 建構行銷策略
 - 搭配行銷策略去開發 LineBot
