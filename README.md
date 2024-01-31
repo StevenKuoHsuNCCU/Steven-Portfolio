@@ -38,7 +38,7 @@
   - 停利、停損、平倉機制
 
 ### 未來經濟風險影響儲蓄模型
-![未來經濟風險影響儲蓄模型](link-to-image)
+![未來經濟風險影響儲蓄模型](readme_graph/IMG_25FD78533B28-1.jpeg)
 
 - 使用 Backward Induction 分析未來風險的價值
 - 創造一個 Solver 最佳化消費及儲蓄組合
