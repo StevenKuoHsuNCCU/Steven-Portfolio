@@ -1,0 +1,195 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://ik.imagekit.io/tvlk/blog/2022/05/Wisata-Vietnam-di-Da-Nang-Traveloka-Xperience-7.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_vietnam_danang",
+          "data": "schedule_vietnam_danang"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "峴港 DANANG",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "峴港機場DAD",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "md",
+        "action": {
+          "type": "postback",
+          "label": "schedule_vietnam_danang",
+          "data": "schedule_vietnam_danang"
+        },
+        "paddingStart": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_vietnam_danang_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-da-nang"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "label": "schedule_vietnam_danang",
+          "data": "schedule_vietnam_danang"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://www.hotelscombined.com.tw/news/wp-content/uploads/sites/316/2019/08/Feature-2.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_vietnam_hochiminh",
+          "data": "schedule_vietnam_hochiminh"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "胡志明市 HOCHIMINH CITY",
+            "weight": "regular",
+            "size": "sm",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "新山一機場 SGN",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "md",
+        "action": {
+          "type": "postback",
+          "label": "schedule_vietnam_hochiminh",
+          "data": "schedule_vietnam_hochiminh"
+        },
+        "paddingStart": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_vietnam_hochiminh_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-ho-chi-minh-city"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "label": "schedule_vietnam_hochiminh",
+          "data": "schedule_vietnam_hochiminh"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

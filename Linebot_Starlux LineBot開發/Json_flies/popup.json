@@ -1,0 +1,169 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/321106168_721514265832310_4480035941451971923_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=UDpvBKJOhu0AX_bpvZa&_nc_ht=scontent-tpe1-1.xx&oh=00_AfAjVGf-ONEqRuXXo0Ql6Dfvh0u4-PsWRTk6xozbNGcO1w&oe=63A8D6C3",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:380"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "點我填問卷抽機票",
+              "data": "draw"
+            },
+            "style": "primary"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://webassets.starlux-airlines.com/zh-TW/Images/1118_banner_tcm5-4452.png",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:380"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "我的抽獎券",
+              "data": "ticket"
+            },
+            "style": "secondary"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://ais2012.com/wp-content/uploads/2022/09/5793b8f1b55b27a41229656bbb9d061f.webp",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:380"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "查看新聯名商品",
+              "data": "new_product"
+            },
+            "style": "secondary"
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://media.vogue.com.tw/photos/5db8ad59b53f1600080b2905/16:9/w_1280,c_limit/2015121670492697.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "新光三越 A11 展演空間",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "快閃店地點",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "md",
+        "paddingStart": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "點我看地圖",
+              "uri": "https://goo.gl/maps/8WnKbQ5XvKMn2TT49"
+            }
+          }
+        ]
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

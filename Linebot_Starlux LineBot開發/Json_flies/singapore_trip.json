@@ -1,0 +1,393 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://scontent.ftpe2-1.fna.fbcdn.net/v/t39.30808-6/321078590_1575902476186078_6433851911995775083_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=dj7lf9Cp0ccAX_EkjtC&_nc_ht=scontent.ftpe2-1.fna&oh=00_AfCuOAzP5EvUwKASmYAi67a1LjRGyVNC64b2OjsNCCVWfA&oe=63A4D0F3",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:426"
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://pix10.agoda.net/hotelImages/162/1620253/1620253_16111114020048641161.jpg?ca=6&ce=1&s=1024x768",
+          "size": "full",
+          "aspectRatio": "20:20",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "莫諾飯店",
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "3.9",
+                  "size": "sm",
+                  "color": "#999999",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://www.jernanjourney.com/wp-content/uploads/2019/07/jewel-changi-airport.jpg",
+          "size": "full",
+          "aspectRatio": "20:20",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "樟宜機場",
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.7",
+                  "size": "sm",
+                  "color": "#999999",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://a.cdn-hotels.com/gdcs/production126/d568/75a51a75-dbf8-4933-834a-ff70c7834c70.jpg",
+          "size": "full",
+          "aspectRatio": "20:20",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "濱海灣花園",
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.7",
+                  "size": "sm",
+                  "color": "#999999",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://www.ghi888.com/wp-content/uploads/2020/12/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%BB%A8%E6%B5%B7%E6%B9%BE%E9%87%91%E6%B2%99-1024x768.jpg",
+          "size": "full",
+          "aspectRatio": "20:20",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "魚尾獅",
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.5",
+                  "size": "sm",
+                  "color": "#999999",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://live.staticflickr.com/65535/50275125661_43dced8820_b.jpg",
+          "size": "full",
+          "aspectRatio": "20:20",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "哈芝巷",
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.0",
+                  "size": "sm",
+                  "color": "#999999",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://tembusuasia.com/wp-content/uploads/2018/05/Mega-Adventure-01.jpg",
+          "size": "full",
+          "aspectRatio": "20:20",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "聖淘沙",
+              "weight": "bold",
+              "size": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "sm",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "4.6",
+                  "size": "sm",
+                  "color": "#999999",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }

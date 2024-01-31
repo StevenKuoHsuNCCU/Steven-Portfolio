@@ -1,0 +1,101 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/127882/20220413004699.jpg_1140x855.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:390"
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/127882/20220413004699.jpg_1140x855.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:390"
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/127882/20220413004699.jpg_1140x855.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:390"
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/127882/20220413004699.jpg_1140x855.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:390"
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/127882/20220413004699.jpg_1140x855.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:390"
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/127882/20220413004699.jpg_1140x855.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:390"
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      }
+    ]
+  }

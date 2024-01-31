@@ -1,0 +1,46 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "請選擇此訊息的傳送目的",
+          "weight": "bold",
+          "size": "xl"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "星宇品牌願景",
+            "data": "Greeting"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "線上客服",
+            "data": "customer_service"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "會員登入",
+            "data": "membership"
+          },
+          "style": "secondary"
+        }
+      ]
+    }
+  }

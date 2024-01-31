@@ -1,0 +1,195 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://mediaim.expedia.com/destination/1/686bd9de910bc4cbf8755289c1554957.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_phillipines_manila",
+          "data": "schedule_phillipines_manila"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "馬尼拉 MANILA",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "艾奎諾機場 MNL",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "md",
+        "action": {
+          "type": "postback",
+          "label": "schedule_phillipines_manila",
+          "data": "schedule_phillipines_manila"
+        },
+        "paddingStart": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_phillipines_manila_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-manila"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "label": "schedule_phillipines_manila",
+          "data": "schedule_phillipines_manila"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://res.klook.com/image/upload/fl_lossy.progressive/q_auto/f_auto/blogtw/2019/03/how-to-go-to-boracay.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_phillipines_cebu",
+          "data": "schedule_phillipines_cebu"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "宿霧 CEBU",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "宿霧機場 CEB",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "md",
+        "action": {
+          "type": "postback",
+          "label": "schedule_phillipines_cebu",
+          "data": "schedule_phillipines_cebu"
+        },
+        "paddingStart": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_phillipines_cebu_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-cebu"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "label": "schedule_phillipines_cebu",
+          "data": "schedule_phillipines_cebu"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

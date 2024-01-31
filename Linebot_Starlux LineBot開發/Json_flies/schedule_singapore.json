@@ -1,0 +1,100 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://storage.googleapis.com/crossing-cms-cwg-tw/article/202105/article-60ac74e39eb40.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_singapore_singapore",
+          "data": "schedule_singapore_singapore"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "新加坡 SINGAPORE",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "樟宜機場 SIN",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "md",
+        "action": {
+          "type": "postback",
+          "label": "schedule_singapore_singapore",
+          "data": "schedule_singapore_singapore"
+        },
+        "paddingStart": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_singapore_singapore_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-singapore"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "label": "schedule_singapore_singapore",
+          "data": "schedule_singapore_singapore"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "選擇您出國旅遊最重視的環節",
+          "weight": "bold",
+          "size": "lg"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "購物",
+            "data": "shopping"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "當地美食",
+            "data": "food"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "名勝風景",
+            "data": "scene"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "飛行體驗",
+            "data": "flight"
+          }
+        }
+      ]
+    }
+  }

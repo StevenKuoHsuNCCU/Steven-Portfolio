@@ -1,0 +1,54 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/319998210_3074995026131536_3997196186826848768_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=zTOfsiLidn8AX-dii45&_nc_ht=scontent-tpe1-1.xx&oh=00_AfB_9_jm1YGXlRi1usEfcybpCU-7lCgX-bwDxOMNGTouPg&oe=63A7D332",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover"
+      
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Traveler 旅行者",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "累積里程",
+                  "color": "#aaaaaa",
+                  "size": "sm",
+                  "flex": 2,
+                  "offsetStart": "none"
+                },
+                {
+                  "type": "text",
+                  "text": "1000 哩",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

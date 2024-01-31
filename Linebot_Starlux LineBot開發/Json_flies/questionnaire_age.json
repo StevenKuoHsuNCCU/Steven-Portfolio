@@ -1,0 +1,45 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "請選擇您的年紀",
+          "weight": "bold",
+          "size": "lg"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "20~30",
+            "data": "20_30"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "30~40",
+            "data": "30_40"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "40~50",
+            "data": "40_50"
+          }
+        }
+      ]
+    }
+  }

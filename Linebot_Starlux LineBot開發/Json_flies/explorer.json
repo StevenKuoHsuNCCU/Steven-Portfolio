@@ -1,0 +1,53 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/319924039_553237739679241_3752575155026774531_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=Ew4v-KsnI_MAX_VB_Ux&tn=4krxpZpyY-pookx1&_nc_ht=scontent-tpe1-1.xx&oh=00_AfDdbFKEHS4eM5H7_g7JVDxVNoydj_wJQDziC2Os5_PSzQ&oe=63A8BB0A",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Explorer 探索者",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "累積里程",
+                  "color": "#aaaaaa",
+                  "size": "sm",
+                  "flex": 2,
+                  "offsetStart": "none"
+                },
+                {
+                  "type": "text",
+                  "text": "50000 哩",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

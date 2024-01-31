@@ -1,0 +1,404 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mt-fuji-and-tokyo-skyline-royalty-free-image-1663909757.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan",
+          "data": "schedule_japan"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "日本 JAPAN",
+            "weight": "regular",
+            "size": "xl",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "🇯🇵飛行距離 2164 km",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan",
+          "data": "schedule_japan"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://imageio.forbes.com/specials-images/imageserve/632b82b0e59ee60dcf7d2c23/China---Macao-City--Cathedral-Parish-District-Skyline/0x0.jpg?format=jpg&width=960",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213",
+        "action": {
+          "type": "postback",
+          "label": "schedule_macau",
+          "data": "schedule_macau"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "澳門 MACAU",
+            "weight": "regular",
+            "size": "xl",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "🇲🇴飛行距離 874 km",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "action": {
+          "type": "postback",
+          "label": "schedule_macau",
+          "data": "schedule_macau"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213",
+        "action": {
+          "type": "postback",
+          "label": "schedule_phillipines",
+          "data": "schedule_phillipines"
+        },
+        "url": "https://media.cntraveler.com/photos/5668630dc3c9e01555a4d421/16:9/w_2580,c_limit/palawan-philippines-coron-cr-alamy.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "菲律賓 PHILLIPINES",
+            "weight": "regular",
+            "size": "xl",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "🇵🇭飛行距離 1344 km",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "action": {
+          "type": "postback",
+          "label": "schedule_phillipines",
+          "data": "schedule_phillipines"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://www.agoda.com/wp-content/uploads/2018/06/experiences_thailand_bangkok_wat-phra-kaew.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213",
+        "action": {
+          "type": "postback",
+          "label": "schedule_thailand",
+          "data": "schedule_thailand"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "泰國 THAILAND",
+            "weight": "regular",
+            "size": "xl",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "🇹🇭飛行距離 2366 km",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "action": {
+          "type": "postback",
+          "label": "schedule_thailand",
+          "data": "schedule_thailand"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://photo.settour.com.tw/900x600/https://www.settour.com.tw/ss_img/info/location/HAL/L0/HAL0000018/HAL0000018_47917.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213",
+        "action": {
+          "type": "postback",
+          "label": "schedule_vietnam",
+          "data": "schedule_vietnam"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "越南 VIETNAM",
+            "weight": "regular",
+            "size": "xl",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "🇻🇳飛行距離 1844 km",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "action": {
+          "type": "postback",
+          "label": "schedule_vietnam",
+          "data": "schedule_vietnam"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://storage.googleapis.com/crossing-cms-cwg-tw/article/202105/article-60ac74e39eb40.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213",
+        "action": {
+          "type": "postback",
+          "label": "schedule_singapore",
+          "data": "schedule_singapore"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "新加坡 SINGAPORE",
+            "weight": "regular",
+            "size": "xl",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "🇸🇬飛行距離 3243 km",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "action": {
+          "type": "postback",
+          "label": "schedule_singapore",
+          "data": "schedule_singapore"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://blog.kkday.com/wp-content/uploads/Malaysia_Kuala-Lumpur_Petronas-Twin-Towers_CPixabay_1820944.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213",
+        "action": {
+          "type": "postback",
+          "label": "schedule_malaysia",
+          "data": "schedule_malaysia"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "馬來西亞 MALAYSIA",
+            "weight": "regular",
+            "size": "xl",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "🇲🇾飛行距離 3115 km",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "action": {
+          "type": "postback",
+          "label": "schedule_malaysia",
+          "data": "schedule_malaysia"
+        }
+      }
+    }
+  ]
+}

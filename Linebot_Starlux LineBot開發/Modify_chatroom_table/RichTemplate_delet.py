@@ -1,0 +1,3 @@
+from linebot import LineBotApi, WebhookHandler
+line_bot_api = LineBotApi('Kw13JfIApmcFO8ektLwB4vnvBpkKLxIYDnuqNA314zIzD9elCkDuQ3ABFDiGmMWrzZ6rKK393GaBR9l1ypcCcB3x0oD5ysZK9GhVysZrs550nZ834BJVvDTD9rzt+dp0kkXgv1J6bJQdo2ZkDD/gtQdB04t89/1O/w1cDnyilFU=')
+line_bot_api.delete_rich_menu('richmenu-bcec4d36e493cfe1e6e65208c506f27b')

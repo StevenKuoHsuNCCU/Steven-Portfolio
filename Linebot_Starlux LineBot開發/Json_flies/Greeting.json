@@ -1,0 +1,104 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://webassets.starlux-airlines.com/zh-TW/Images/1118_banner_tcm5-4452.png",
+      "size": "full",
+      "aspectRatio": "20:16",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://www.starlux-airlines.com/zh-TW/about-us/knowing-us"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "星宇航空 Starlux Airline",
+          "weight": "bold",
+          "size": "lg"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "張國煒 / 2018",
+                  "color": "#aaaaaa",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "願景",
+                  "color": "#aaaaaa",
+                  "size": "sm",
+                  "flex": 1
+                },
+                {
+                  "type": "text",
+                  "text": "讓全世界的旅客，都能享受安全、高質感的飛行體驗。享受每一次飛行，猶如精品，收藏於心。",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "postback",
+            "label": "探索航點",
+            "data": "schedule"
+          }
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "uri",
+            "label": "訂票官網",
+            "uri": "https://www.starlux-airlines.com/zh-TW"
+          }
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [],
+          "margin": "sm"
+        }
+      ],
+      "flex": 0
+    }
+  }

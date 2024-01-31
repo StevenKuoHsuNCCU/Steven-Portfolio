@@ -1,0 +1,11 @@
+{
+  "type": "bubble",
+  "size": "kilo",
+  "hero": {
+    "type": "image",
+    "url": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/320572446_1273864173163312_6313718681791007343_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=7rzs9dNpa8AAX9KuaUU&_nc_ht=scontent-tpe1-1.xx&oh=00_AfCiYR_XpCGEI9Cye29l2eZUORXFhZcBLRRYmge1Vzvnbg&oe=63A59DD6",
+    "size": "full",
+    "aspectRatio": "20:59",
+    "aspectMode": "cover"
+  }
+}

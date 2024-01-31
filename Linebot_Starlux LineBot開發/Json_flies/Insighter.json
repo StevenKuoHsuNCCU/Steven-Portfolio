@@ -1,0 +1,53 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/320709919_560363858884071_4437967147710948641_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=P1nIfcKHAjEAX8ox0Hd&tn=4krxpZpyY-pookx1&_nc_ht=scontent-tpe1-1.xx&oh=00_AfCoNwARoM_v1AUR8PQAHp28cZeK-mfGCW9GKFJHXxkB0g&oe=63A78BA3",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Insighter 前瞻者",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "累積里程",
+                  "color": "#aaaaaa",
+                  "size": "sm",
+                  "flex": 2,
+                  "offsetStart": "none"
+                },
+                {
+                  "type": "text",
+                  "text": "120000 哩",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

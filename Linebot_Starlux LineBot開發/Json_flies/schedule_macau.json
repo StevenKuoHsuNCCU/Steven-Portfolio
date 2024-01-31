@@ -1,0 +1,99 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "hero": {
+          "type": "image",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632b82b0e59ee60dcf7d2c23/China---Macao-City--Cathedral-Parish-District-Skyline/0x0.jpg?format=jpg&width=960",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:320",
+          "action": {
+            "type": "postback",
+            "label": "schedule_macau_macau",
+            "data": "schedule_macau_macau"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "澳門 MACAU",
+              "weight": "regular",
+              "size": "lg",
+              "wrap": true,
+              "style": "normal",
+              "decoration": "none"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "澳門機場 MFM",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5,
+                      "style": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "none",
+          "paddingAll": "13px",
+          "paddingBottom": "md",
+          "action": {
+            "type": "postback",
+            "label": "schedule_macau_macau",
+            "data": "schedule_macau_macau"
+          }
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "postback",
+                "label": "精選套裝",
+                "data": "schedule_macau_macau_hotel"
+              }
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "立即訂購",
+                "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-macau"
+              },
+              "style": "secondary"
+            }
+          ],
+          "action": {
+            "type": "postback",
+            "label": "schedule_macau_macau",
+            "data": "schedule_macau_macau"
+          }
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      }
+    ]
+  }

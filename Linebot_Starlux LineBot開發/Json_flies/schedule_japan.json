@@ -1,0 +1,483 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://a1.cdn.japantravel.com/photo/12865-215185/1440x960!/tokyo-tokyo-prefecture-215185.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan_tokyo",
+          "data": "schedule_japan_tokyo"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "東京 TOKYO",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "成田機場 NRT",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ],
+            "paddingBottom": "sm",
+            "paddingTop": "none"
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "none",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan_tokyo",
+          "data": "schedule_japan_tokyo"
+        },
+        "paddingTop": "lg"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_japan_tokyo_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-tokyo"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "data": "schedule_japan_tokyo",
+          "label": "schedule_japan_tokyo"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://www.crossroadfukuoka.jp/thumb/thumb.php?mw=1080&mh=1080&path=../event/photo/4000000000264/1529558943.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan_fukouka",
+          "data": "schedule_japan_fukouka"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "福岡 FUKUOKA",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "福岡機場 FUK",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ],
+            "paddingBottom": "xs"
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan_fukouka",
+          "data": "schedule_japan_fukouka"
+        },
+        "paddingTop": "lg",
+        "paddingBottom": "sm"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_japan_fukuoka_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-fukuoka"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "data": "schedule_japan_fukouka",
+          "label": "schedule_japan_fukouka"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://www.jal.co.jp/hk/zhhk/guide-to-japan/destinations/articles/osaka/must-see-osaka-attractions/_jcr_content/root/responsivegrid/sectioncontainer/image_295720536.coreimg.jpeg/1636980268839.jpeg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan_osaka",
+          "data": "schedule_japan_osaka"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "大阪 OSAKA",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "關西機場 KIX",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "md",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan_osaka",
+          "data": "schedule_japan_osaka"
+        },
+        "paddingStart": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_japan_osaka_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-osaka"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "data": "schedule_japan_osaka",
+          "label": "schedule_japan_osaka"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://img.japankuru.com/prg_img/img/img2019061415221427434600.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan_okinawa",
+          "data": "schedule_japan_okinawa"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "沖繩 OKINAWA",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "那霸機場 OKA",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "md",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan_okinawa",
+          "data": "schedule_japan_okinawa"
+        },
+        "paddingStart": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_japan_okinawa_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-okinawa"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "data": "schedule_japan_okinawa",
+          "label": "schedule_japan_okinawa"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://skywardplus.jal.co.jp/wp-content/uploads/2022/06/detail_sightseeing_sapporo.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan_sapporo",
+          "data": "schedule_japan_sapporo"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "札幌 SAPPORO",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "新千歲機場 CTS",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "md",
+        "action": {
+          "type": "postback",
+          "label": "schedule_japan_sapporo",
+          "data": "schedule_japan_sapporo"
+        },
+        "paddingStart": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_japan_sapporo_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-sapporo"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "data": "schedule_japan_sapporo",
+          "label": "schedule_japan_sapporo"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

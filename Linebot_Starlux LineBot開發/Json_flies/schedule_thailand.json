@@ -1,0 +1,100 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://www.fodors.com/assets/destinations/21/grand-palace-night-bangkok-thailand_980x650.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:320",
+        "action": {
+          "type": "postback",
+          "label": "schedule_thailand_bangkok",
+          "data": "schedule_thailand_bangkok"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "曼谷 BANGKOK",
+            "weight": "regular",
+            "size": "lg",
+            "wrap": true,
+            "style": "normal",
+            "decoration": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "素萬那普機場 BKK",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5,
+                    "style": "normal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "none",
+        "paddingAll": "13px",
+        "paddingBottom": "md",
+        "action": {
+          "type": "postback",
+          "label": "schedule_thailand_bangkok",
+          "data": "schedule_thailand_bangkok"
+        },
+        "paddingStart": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "精選套裝",
+              "data": "schedule_thailand_bangkok_hotel"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立即訂購",
+              "uri": "https://www.starlux-airlines.com/flights/zh-tw/flights-to-bangkok"
+            },
+            "style": "secondary"
+          }
+        ],
+        "action": {
+          "type": "postback",
+          "label": "schedule_thailand_bangkok",
+          "data": "schedule_thailand_bangkok"
+        }
+      },
+      "styles": {
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/320217379_1293146911465299_5738147802706826656_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=T46xmUY9prgAX8YG5Aa&_nc_ht=scontent-tpe1-1.xx&oh=00_AfCxPnjoKFInp-vB918Rlm-wwbAuLOlxedlMuCTz9-d7qA&oe=63A82E92",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Adventurer 冒險者",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "累積里程",
+                  "color": "#aaaaaa",
+                  "size": "sm",
+                  "flex": 2,
+                  "offsetStart": "none"
+                },
+                {
+                  "type": "text",
+                  "text": "30000 哩",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
