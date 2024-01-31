@@ -55,7 +55,7 @@
 - 擔任組長、負責建構模型、參數調整、預測
 
 ## LineBot 開發
-![LineBot 開發](readme_graph/IMG_7208.PNG)
+<img src="https://github.com/StevenKuoHsuNCCU/Steven-Portfolio/blob/51da51aa6db0c373bb6024baafdecb2b9fc00c74/readme_graph/IMG_7208.PNG" width="400" height="800">
 
 - 建構行銷策略
 - 搭配行銷策略去開發 LineBot
